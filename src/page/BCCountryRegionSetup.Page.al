@@ -1,4 +1,4 @@
-page 50125 "Country/Region Setup"
+page 50125 "BC Country/Region Setup"
 {
     Caption = 'Country/Region Setup';
     PageType = Card;
@@ -45,5 +45,7 @@ page 50125 "Country/Region Setup"
             Rec.Insert();
         end;
     end;
+
+    //Kristinaizmena
 }
 
