@@ -1,4 +1,4 @@
-enum 50100 "Country/Region Enum"
+enum 50100 "BC Country/Region Enum"
 {
     Extensible = true;
 
@@ -22,5 +22,6 @@ enum 50100 "Country/Region Enum"
         ///moja treca izmena.
         //moja cetvrta izmena.
         //peta promena
+        //promena
     }
 }
