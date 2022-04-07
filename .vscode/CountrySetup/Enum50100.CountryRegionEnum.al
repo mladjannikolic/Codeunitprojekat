@@ -1,7 +1,7 @@
 enum 50100 "Country/Region Enum"
 {
     Extensible = true;
-    
+
     value(0; "")
     {
         Caption = ' ';
@@ -17,5 +17,6 @@ enum 50100 "Country/Region Enum"
     value(3; CR)
     {
         Caption = 'Croatia';
+        //moja nova izmena
     }
 }
