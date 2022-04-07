@@ -23,5 +23,6 @@ enum 50100 "BC Country/Region Enum"
         //moja cetvrta izmena.
         //peta promena
         //promena
+        //123
     }
 }
