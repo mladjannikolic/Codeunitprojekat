@@ -23,7 +23,7 @@ codeunit 50103 "Country/Region Upgrade"
         else begin
             case CountryRegionSetup."Country/Region Code" of
                 'Si':
-                    CountryRegionSetup."Country/Region Enum" := CountryRegionSetup."Country/Region Enum"::Sl;
+                    CountryRegionSetup."Country/Region Enum" := CountryRegionSetup."Country/Region Enum"::IT;
                 'RS':
                     CountryRegionSetup."Country/Region Enum" := CountryRegionSetup."Country/Region Enum"::RS;
                 'CR':
