@@ -26,6 +26,8 @@ pageextension 50120 CustomerListExt extends "Customer List"
         }
     }
 
+    //novagrana 
+
     [IntegrationEvent(false, false)]
     local procedure OnCallPublisher(var Customer: Record Customer)
     begin
