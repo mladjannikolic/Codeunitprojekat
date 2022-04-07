@@ -1,4 +1,4 @@
-codeunit 50103 "Country/Region Upgrade"
+codeunit 50103 "BC Country/Region Upgrade"
 {
     Subtype = Upgrade;
 
@@ -23,7 +23,7 @@ codeunit 50103 "Country/Region Upgrade"
         else begin
             case CountryRegionSetup."Country/Region Code" of
                 'Si':
-                    CountryRegionSetup."Country/Region Enum" := CountryRegionSetup."Country/Region Enum"::Sl;
+                    CountryRegionSetup."Country/Region Enum" := CountryRegionSetup."Country/Region Enum"::ME;
                 'RS':
                     CountryRegionSetup."Country/Region Enum" := CountryRegionSetup."Country/Region Enum"::RS;
                 'CR':
