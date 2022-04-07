@@ -20,5 +20,6 @@ enum 50100 "Country/Region Enum"
         //moja nova izmena
         //moja druga izmena.
         ///moja treca izmena.
+        //moja cetvrta izmena.
     }
 }
