@@ -19,5 +19,6 @@ enum 50100 "Country/Region Enum"
         Caption = 'Croatia';
         //moja nova izmena
         //moja druga izmena.
+        ///moja treca izmena.
     }
 }
