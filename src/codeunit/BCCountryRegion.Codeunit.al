@@ -1,4 +1,4 @@
-codeunit 50103 "BC Country/Region Upgrade"
+codeunit 50103 "BC Country/Region"
 {
     Subtype = Upgrade;
 
